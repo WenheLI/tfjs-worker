@@ -1,0 +1,14 @@
+{
+  "name": "tfjs-worker",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "author": "WenheLI",
+  "license": "MIT",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.3.0",
+    "@tensorflow/tfjs-node": "^2.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
